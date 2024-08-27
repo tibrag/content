@@ -8,4 +8,4 @@ Hier het programma voor de Dolfijnen groep bij Tibrag Scouting Sneek :)
 
 [linkje](https://www.google.com)
 
-testing again for auto update
+testing test 3 for auto update
