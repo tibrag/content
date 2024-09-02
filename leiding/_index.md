@@ -1,5 +1,8 @@
 ---
-title: Leiding
-hiddenFromHomePage: true
-password: "test123"
+title: 'Voor Leiding'
+identifier: 'hidden'
+sitemap:
+    priority: 0.0
+    changefreq: 'never'
+    excluded: true
 ---
