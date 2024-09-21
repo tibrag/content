@@ -1,6 +1,9 @@
 +++
 title = 'Home'
 +++
+## DEZE WEBSITE WORDT MOMENTEEL AAN GEWERKT. (Het contactformulier op tibrag.nl/contact is wel functioneel)
+
+
 Tekst buiten de kolommen werkt gewoon zoals je zou verwachten. Hier kan je zien dat de tekst de ruimte inneemt van de drie kolommen en dus niet hierdoor begrenst wordt.
 {{< columns >}}
 {{< column >}}
