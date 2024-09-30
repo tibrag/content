@@ -1,4 +1,13 @@
 ---
 title: "Wilde Vaart"
 ---
-# test
+
+{{< columns >}}
+{{< column >}}
+Informatie
+{{< /column >}}
+
+{{< column >}}
+Programma
+{{< /column >}}
+{{< /columns >}}
