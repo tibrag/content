@@ -43,3 +43,15 @@ Kolom 2
 
 <!-- dit is het einde van de kolom omgeving    -->
 {{< /columns >}}
+
+
+<!-- Je kan het ook iets anders neerzetten voor duidelijkheid -->
+{{< columns >}}
+  {{< column >}}
+    Kolom 1
+  {{< /column >}}
+  
+  {{< column >}}
+    Kolom 2
+  {{< /column >}}
+{{< /columns >}}
