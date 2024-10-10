@@ -4,7 +4,8 @@ title: Voorbeeld
 <!-- dit is tekst die niet wordt weergeven op de pagina -->
 # titel
 Gewone tekst.
-
+**Vetgedrukte tekst**.
+*Schuine tekst*.
 ## kleinere titel
 
 ### nog kleiner
