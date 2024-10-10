@@ -13,6 +13,12 @@ Gewone tekst.
 
 ### nog kleiner
 
+Lijst:
+- punt 1
+- punt 2
+- etc
+
+
 <!-- dit is een link. Het linker deel is hoe het eruit gaat zien .. -->
 <!-- .. en het rechter deel is de link waartoe het verwijst         -->
 <!-- de link moet beginnen met https://                             -->
