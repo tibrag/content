@@ -13,6 +13,10 @@ Gewone tekst.
 
 ### nog kleiner
 
+Een nieuwe regel begin je door twee spaties toe te voegen aan het einde van een zin en daarna op enter te drukken.  
+Hier begint dus een nieuwe zin.
+
+
 Lijst:
 - punt 1
 - punt 2
