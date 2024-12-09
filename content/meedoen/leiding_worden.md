@@ -2,8 +2,6 @@
 title: 'Leiding Worden'
 ---
 
-# Leiding worden bij onze waterscoutinggroep
-
 Heb jij een passie voor avontuur, water en het begeleiden van kinderen en jongeren? Dan is leiding worden bij onze waterscoutinggroep echt iets voor jou! Als leiding speel je een cruciale rol in het organiseren van uitdagende en leerzame activiteiten, en zorg je voor een veilige en inspirerende omgeving waarin onze leden zichzelf kunnen ontwikkelen.
 
 ## Wat doet een leidinggevende?

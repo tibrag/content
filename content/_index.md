@@ -5,6 +5,6 @@ title: "Home"
 Welkom op de website van Scoutinggroep Tibrag Sneek.<br>
 Aan deze website wordt momenteel gewerkt!
 
-(Het contactformulier op [tibrag.nl/contact](https://tibrag.nl/contact) is wel functioneel)
+De startpagina is nog niet compleet, maar er is al wel veel informatie te vinden op de andere pagina's. Kijk vooral even rond!
 
 

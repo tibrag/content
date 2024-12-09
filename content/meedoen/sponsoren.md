@@ -2,8 +2,6 @@
 title: 'Sponsoren'
 ---
 
-# Word sponsor van onze waterscoutinggroep  
-
 Wil je bijdragen aan de ontwikkeling van kinderen en jongeren terwijl je tegelijkertijd je bedrijf lokaal zichtbaar maakt? Word sponsor van onze waterscoutinggroep en help ons om avontuurlijke, leerzame en onvergetelijke activiteiten mogelijk te maken!  
 
 ## Waarom sponsoren?  
