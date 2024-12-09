@@ -12,9 +12,8 @@ Waterscouting is uniek omdat onze activiteiten zich vooral op en rond het water 
 
 Iedereen vanaf 7 jaar is welkom bij onze groep! We hebben verschillende leeftijdsgroepen, zodat je altijd activiteiten doet die bij jou passen:  
 - **Dolfijnen (7-11 jaar):** Spelenderwijs de natuur en het water ontdekken. (in opzet)
-- **Zeeverkenners (11-15 jaar):** Leren zeilen, roeien en avonturen beleven.  
-- **Wilde Vaart (15-18 jaar):** Zelfstandig activiteiten plannen en uitvoeren.  
-- **Loodsen (18-21 jaar):** Grotere uitdagingen en bijdragen aan de groep.  
+- **Juniorscouts (12-17 jaar):** Leren zeilen, roeien, avonturen beleven en zelfstandig activiteiten plannen.
+- **Loodsen (18-21 jaar):** Grotere uitdagingen en bijdragen aan de groep.
 
 ## Wat kun je verwachten?  
 
@@ -36,13 +35,19 @@ Wil je lid worden? Het proces is eenvoudig:
 Nee hoor! Alles wat je nodig hebt, leer je bij ons. Enthousiasme is het belangrijkst.  
 
 **Wat kost het lidmaatschap?**  
-De contributie is afhankelijk van de leeftijdsgroep. Neem contact met ons op voor de actuele tarieven. Mocht contributie toch nog in de weg zitten, neem dan contact met ons op. Bij scouting zorgen we voor elkaar en valt er altijd wat te regelen.
+De contributie bedraagt voor iedere leeftijdsgroep €70,- per halfjaar. Bijkomende kosten zijn het uniform (ongeveer €50,-)  en voor kampen vragen we ook een extra bijdrage. 
+De bijdrage voor deelname aan kampen zijn afhankelijk van de activiteiten maar worden zeer bewust zo laag mogelijk gehouden.
+Mocht de contributie een probleem zijn, dan kun je contact opnemen met Stichting Leergeld. Zij helpen kinderen van ouders die (tijdelijk) krap bij kas zitten. Zie ook [www.leergeldsneek.nl](www.leergeldsneek.nl).
 
 **Hoe vaak zijn er opkomsten?**  
-Onze opkomsten vinden wekelijks plaats en worden aangevuld met kampen en andere speciale activiteiten.  
+Onze opkomsten vinden wekelijks plaats (exclusief schoolvakanties) en worden aangevuld met kampen en andere speciale activiteiten.
 
-## Klaar om aan boord te stappen?  
+**Hoe zit het met de privacy?**
+Scoutinggroep Tibrag verwerkt persoonsgegevens. Vanaf 25 mei 2018 volgt ons beleid de nieuwe algemene verordening gegevensbescherming (AVG) van de Europese Unie.
+Wij houden ons aan de privacyregels opgesteld door Scouting Nederland ([privacywetgeving](https://www.scouting.nl/bestuur/juridisch/privacywetgeving))
 
+
+## Klaar om aan boord te stappen?
 Nieuwsgierig geworden? Neem [contact](https://tibrag.nl/contact) met ons op voor meer informatie of om een keer vrijblijvend mee te doen. We kijken ernaar uit je te ontmoeten!
 
 ---
