@@ -1,5 +1,5 @@
 ---
-
+title: "Verhuur"
 ---
 
 Onze mooie locatie met unieke ligging aan de Houkesloot is ideaal om een scoutingkamp te houden. Daarom verhuren wij het gebouw, 2 kampeervelden en ligplaatsen graag aan scoutingverenigingen.
