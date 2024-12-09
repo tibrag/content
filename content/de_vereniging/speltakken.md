@@ -7,7 +7,7 @@ Bij onze waterscoutinggroep is er voor elke leeftijdsgroep een passende speltak.
 ## **Dolfijnen (7-11 jaar)**  
 De Dolfijnen ontdekken spelenderwijs de wereld om hen heen, zowel op het water als op het land. Door middel van avontuurlijke spellen, creatieve opdrachten en basisactiviteiten leren zij samenwerken en ontwikkelen zij zelfvertrouwen. Ze maken voor het eerst kennis met waterscouting, zoals kleine vaartochtjes en knopen leren leggen.
 
-**Opkomsttijden:** Deze groep wordt momenteel opgezet. De opkomst vindt waarschijnlijk plaats, zaterdagochtend van 09:30 tot 12:00.
+**Opkomsttijden:** Deze groep wordt momenteel opgezet. De opkomst vindt waarschijnlijk plaats op zaterdagochtend van 09:30 tot 12:00.
 
 ---
 
