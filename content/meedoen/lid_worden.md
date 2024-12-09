@@ -44,7 +44,7 @@ Onze opkomsten vinden wekelijks plaats (exclusief schoolvakanties) en worden aan
 
 **Hoe zit het met de privacy?**
 Scoutinggroep Tibrag verwerkt persoonsgegevens. Vanaf 25 mei 2018 volgt ons beleid de nieuwe algemene verordening gegevensbescherming (AVG) van de Europese Unie.
-Wij houden ons aan de privacyregels opgesteld door Scouting Nederland ([privacywetgeving](https://www.scouting.nl/bestuur/juridisch/privacywetgeving))
+Wij houden ons aan de privacyregels opgesteld door Scouting Nederland ([privacywetgeving](https://www.scouting.nl/bestuur/juridisch/privacywetgeving)).
 
 
 ## Klaar om aan boord te stappen?
