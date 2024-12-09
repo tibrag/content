@@ -14,14 +14,14 @@ De Dolfijnen ontdekken spelenderwijs de wereld om hen heen, zowel op het water a
 ## **Zeeverkenners (11-15 jaar)**  
 Bij de Zeeverkenners draait het om samenwerken en wateravontuur. De leden leren zeilen, roeien, wrikken en navigeren terwijl ze in ploegen verantwoordelijk zijn voor hun eigen boot. Vriendschap en verantwoordelijkheid staan centraal. Of het nu gaat om een spannende zeilwedstrijd of het gezamenlijk opknappen van een boot, er is altijd iets te beleven.
 
-**Opkomsttijden:** Zaterdag van 18:30 tot 21:00 van de lentevakantie tot de herfstvakantie, anders 19.00 tot 21.00.
+**Opkomsttijden:** Vrijdagavond van 18:30 tot 21:00 van de lentevakantie tot de herfstvakantie, anders 19.00 tot 21.00.
 
 ---
 
 ## **Wilde Vaart (15-18 jaar)**  
 De Wilde Vaart neemt zelfstandig de touwtjes in handen. Ze plannen hun eigen activiteiten, van uitdagende zeiltochten tot creatieve projecten en avontuurlijke kampen. Dit is de perfecte speltak om grenzen te verleggen en te leren leidinggeven aan jongere scouts.
 
-**Opkomsttijden:** Zaterdag van 18:30 tot 21:00 van de lentevakantie tot de herfstvakantie, anders 19.00 tot 21.00.
+**Opkomsttijden:** Vrijdagavond van 18:30 tot 21:00 van de lentevakantie tot de herfstvakantie, anders 19.00 tot 21.00.
 
 ---
 
