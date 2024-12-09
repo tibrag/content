@@ -15,12 +15,22 @@ Iedereen vanaf 7 jaar is welkom bij onze groep! We hebben verschillende leeftijd
 - **Juniorscouts (12-17 jaar):** Leren zeilen, roeien, avonturen beleven en zelfstandig activiteiten plannen.
 - **Loodsen (18-21 jaar):** Grotere uitdagingen en bijdragen aan de groep.
 
-## Wat kun je verwachten?  
+## Wat kun je van scouting verwachten?  
 
 Als lid van onze groep heb je elke week een opkomst vol leuke en leerzame activiteiten. Daarnaast organiseren we regelmatig speciale evenementen zoals:  
 - **Kampen:** Van avontuurlijke zomerkampen op het water tot gezellige weekenden.  
 - **Zeiltochten:** Ontdek de mooiste plekken vanaf het water.  
-- **Wedstrijden:** Laat zien wat je kunt tijdens regionale en landelijke scoutingwedstrijden.  
+- **Wedstrijden:** Laat zien wat je kunt tijdens regionale en landelijke scoutingwedstrijden.
+
+## Wat kun je van onze leiding verwachten?
+Wij vinden een veilige fysieke en sociale omgeving voor onze jeugdleden en vrijwilligers belangrijk. Hierom houden wij ons aan de [gedragscode](https://www.scouting.nl/assets/uploads/doorzoekbareBestanden/06.Ondersteuning/Veiligheid/Sociale%20veiligheid/Gedragscode.pdf) opgesteld door Scouting Nederland. Verder bouwen we aan een veilige omgeving via cursussen van Scouting Nederland en houden wij interviews met nieuwe leiding.
+
+## Wat verwachten wij van jou?  
+
+Als je lid wil worden, verwachten wij ook een aantal dingen van jou zoals:  
+- **Zwemdiploma:** Omdat wij elke week op, naast of in het water zijn, moet je bij onze vereniging in het bezit zijn van het zwemdiplomma A of het zwemvaardig-certificaat.
+- **Gedragsregels:** Een scout is eerlijk, vriendelijk en zorgt voor de natuur. Voor een goed verloop van het spel vragen we onze scouts te luisteren naar de leiding en respectvol met elkaar om te gaan.
+
 
 ## Hoe meld je je aan?  
 
