@@ -1,5 +1,7 @@
 ---
 title: 'Leeftijdsgroepen'
+keywords: ['scouting groepen', 'leeftijdsgroepen', 'leeftijd groepen', 'scouting leeftijd', 'opkomst tijden', 'scouting opkomst', 'meedoen scouting', 'scouting sneek meedoen', 'scouting sneek leeftijd']
+description: 'Wil jij weten of je oud genoeg bent om mee te doen met Scoutinggroep TIBRAG Sneek? Hier staan onze leeftijdsgroepen met hun activiteiten.'
 ---
 
 Bij onze waterscoutinggroep is er voor elke leeftijdsgroep een passende speltak. Zo kunnen kinderen, tieners en jongvolwassenen op hun eigen niveau plezier beleven, leren samenwerken en nieuwe uitdagingen aangaan. Hieronder lees je meer over onze leeftijdsgroepen en wat zij zo bijzonder maakt.

@@ -1,5 +1,7 @@
 ---
 title: 'Wat is scouting?'
+keywords: ['tibrag', 'scoutinggroep', 'scouting website', 'tibrag sneek', 'tibrag startpagina', 'scouting startpagina', 'scouting nederland', 'water scouting', 'scouting activiteiten', 'scouting boot', 'scouting clubhuis', 'leeftijd scouting', 'scouting voor volwassenen', 'scouting groepen nederland']
+description: 'Scoutinggroep TIBRAG Sneek is een waterscouting vereniging van Scouting Nederland, maar wat is scouting eigenlijk? Hier leggen we dat uit.'
 ---
 
 Scouting is een avontuurlijke en uitdagende vrijetijdsbesteding waarbij kinderen, jongeren en volwassenen spelenderwijs leren samenwerken, zichzelf ontwikkelen en genieten van de natuur. Bij onze **waterscoutinggroep** ligt de nadruk op activiteiten op en rond het water. Dit is ideaal gezien de vele wateren rond Sneek!

@@ -1,5 +1,7 @@
 ---
 title: 'Lid Worden'
+keywords: ['uniform scouting', 'water scouting', 'scouting kampen', 'kleding scouting', 'scouting groepen nederland', 'scouting benodigdheden', 'activiteiten scouting', 'contributie scouting', 'lid worden scouting', 'tibrag lid worden']
+description: 'Ben jij enthausiast om te leren zeilen, bouwen en navigeren. Hier leer je hoe jij je hiervoor op kan geven bij scoutinggroep TIBRAG Sneek.'
 ---
 
 Ben jij klaar voor avontuur op en rond het water? Bij onze waterscoutinggroep maak je vrienden voor het leven, beleef je spannende activiteiten en leer je handige vaardigheden zoals zeilen, samenwerken en overleven in de natuur. Word lid en ontdek wat scouting voor jou kan betekenen!  
@@ -47,7 +49,7 @@ Nee hoor! Alles wat je nodig hebt, leer je bij ons. Enthousiasme is het belangri
 **Wat kost het lidmaatschap?**  
 De contributie bedraagt voor iedere leeftijdsgroep €70,- per halfjaar. Bijkomende kosten zijn het uniform (ongeveer €50,-)  en voor kampen vragen we ook een extra bijdrage. 
 De bijdrage voor deelname aan kampen zijn afhankelijk van de activiteiten maar worden zeer bewust zo laag mogelijk gehouden.
-Mocht de contributie een probleem zijn, dan kun je contact opnemen met Stichting Leergeld. Zij helpen kinderen van ouders die (tijdelijk) krap bij kas zitten. Zie ook [www.leergeldsneek.nl](www.leergeldsneek.nl).
+Mocht de contributie een probleem zijn, dan kun je contact opnemen met Stichting Leergeld. Zij helpen kinderen van ouders die (tijdelijk) krap bij kas zitten. Zie ook [www.leergeldsneek.nl](https://www.leergeldsneek.nl).
 
 **Hoe vaak zijn er opkomsten?**  
 Onze opkomsten vinden wekelijks plaats (exclusief schoolvakanties) en worden aangevuld met kampen en andere speciale activiteiten.

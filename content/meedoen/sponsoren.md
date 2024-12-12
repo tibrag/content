@@ -1,5 +1,7 @@
 ---
 title: 'Sponsoren'
+keywords: ['wordt sponsor', 'sponsor kinderen', 'ik wil sponsoren', 'scouting sponsoren', 'sociale sponsoring', 'sponsor vereniging', 'vereniging sponsoren', 'sponsor mogelijkheden']
+description: 'Scoutinggroep TIBRAG is een vrijwilligersorganisatie zonder winstoogmerk, hierom is alle hulp welkom. Met sponsoren kunnen wij geweldige kampen organiseren of goede materialen aanschaffen. Iedere hulp houd onze contributie laag.'
 ---
 
 Wil je bijdragen aan de ontwikkeling van kinderen en jongeren terwijl je tegelijkertijd je bedrijf lokaal zichtbaar maakt? Word sponsor van onze waterscoutinggroep en help ons om avontuurlijke, leerzame en onvergetelijke activiteiten mogelijk te maken!  

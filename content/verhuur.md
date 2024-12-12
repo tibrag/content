@@ -1,5 +1,7 @@
 ---
 title: 'Verhuur'
+keywords: ['verhuur scouting', 'scouting verhuur', 'scouting gebouw', 'scouting clubhuis', 'verhuur scoutinggebouw', 'scoutinghuis huren', 'verhuur clubhuis', 'verhuur scoutslokalen', 'verhuur tibrag', 'verhuur scouting centrum sneek', 'scouting centrum sneek', 'scouting kamp locatie']
+description: 'Ons mooie clubgebouw en onze boten kunnen ook verhuurd worden! Zie hier meer informatie.'
 ---
 
 Onze mooie locatie met unieke ligging aan de Houkesloot is ideaal om een scoutingkamp te houden. Daarom verhuren wij het gebouw, 2 kampeervelden en ligplaatsen graag aan scoutingverenigingen.
