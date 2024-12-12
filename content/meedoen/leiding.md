@@ -1,6 +1,6 @@
 ---
 title: 'Leiding Worden'
-keywords: ['leiding worden', 'passie voor avontuur', 'water', 'begeleiden van kinderen', 'begeleiden van jongeren', 'organiseren van activiteiten', 'waterscoutinggroep', 'leidinggevende', 'ontwikkeling', 'persoonlijke ontwikkeling', 'vrijwilligerswerk', 'scouting leiding worden', 'programma maken']
+keywords: 'leiding worden, passie voor avontuur, water, begeleiden van kinderen, begeleiden van jongeren, organiseren van activiteiten, waterscoutinggroep, leidinggevende, ontwikkeling, persoonlijke ontwikkeling, vrijwilligerswerk, scouting leiding worden, programma maken'
 description: 'Wil jij jongeren helpen het scouting spel te leren met het maken van leuke programma&#39;s en activiteiten? Kom jij het leidingteam bij TIBRAG versterken? Kijk hier wat wij jou kunnen bieden!'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Lid Worden'
-keywords: ['uniform scouting', 'water scouting', 'scouting kampen', 'kleding scouting', 'scouting groepen nederland', 'scouting benodigdheden', 'activiteiten scouting', 'contributie scouting', 'lid worden scouting', 'tibrag lid worden']
+keywords: 'uniform scouting, water scouting, scouting kampen, kleding scouting, scouting groepen nederland, scouting benodigdheden, activiteiten scouting, contributie scouting, lid worden scouting, tibrag lid worden'
 description: 'Ben jij enthausiast om te leren zeilen, bouwen en navigeren. Hier leer je hoe jij je hiervoor op kan geven bij scoutinggroep TIBRAG Sneek.'
 ---
 

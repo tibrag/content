@@ -1,6 +1,6 @@
 ---
 title: 'Wat is scouting?'
-keywords: ['tibrag', 'scoutinggroep', 'scouting website', 'tibrag sneek', 'tibrag startpagina', 'scouting startpagina', 'scouting nederland', 'water scouting', 'scouting activiteiten', 'scouting boot', 'scouting clubhuis', 'leeftijd scouting', 'scouting voor volwassenen', 'scouting groepen nederland']
+keywords: 'tibrag, scoutinggroep, scouting website, tibrag sneek, tibrag startpagina, scouting startpagina, scouting nederland, water scouting, scouting activiteiten, scouting boot, scouting clubhuis, leeftijd scouting, scouting voor volwassenen, scouting groepen nederland'
 description: 'Scoutinggroep TIBRAG Sneek is een waterscouting vereniging van Scouting Nederland, maar wat is scouting eigenlijk? Hier leggen we dat uit.'
 ---
 
