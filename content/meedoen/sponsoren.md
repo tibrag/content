@@ -44,7 +44,7 @@ Of je nu eenmalig wilt bijdragen of een langdurige samenwerking zoekt, alles is 
 
 ## Neem contact op  
 
-Wil je meer weten over de sponsormogelijkheden? Neem contact met ons op via ons [contactformulier](https://tibrag.nl/contact). We vertellen je graag meer over wat we doen en hoe jouw steun een verschil maakt.  
+Wil je meer weten over de sponsormogelijkheden? Neem contact met ons op via ons [contactformulier](/contact/). We vertellen je graag meer over wat we doen en hoe jouw steun een verschil maakt.  
 {{< witregel >}}
 
 ---

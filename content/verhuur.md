@@ -36,7 +36,7 @@ Het gebouw is ondergebracht in de Stichting Scouting Centrum Sneek.
 Verhuurmogelijkheden van het gebouw kunnen op aanvraag worden gedaan door een mail te sturen naar scsgebruik@scoutingcentrumsneek.nl  
 
 {{< witregel >}}
-Voor Lelievletten en kano verhuur (inclusief complete inventaris) stuur een berichtje via ons [contactformulier](https://www.tibrag.nl/contact/).  
+Voor Lelievletten en kano verhuur (inclusief complete inventaris) stuur een berichtje via ons [contactformulier](/contact/).  
 
 {{< witregel >}}
 *Is jullie organisatie geen scoutingvereniging, maar wel stichting of vereniging (zonder winstoog merk). Stuur ook dan gerust een email. Er is veel mogelijk.

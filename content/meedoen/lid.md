@@ -70,7 +70,7 @@ Wij houden ons aan de privacyregels opgesteld door Scouting Nederland ([privacyw
 {{< witregel >}}
 
 ## Klaar om aan boord te stappen?
-Nieuwsgierig geworden? Neem [contact](https://tibrag.nl/contact) met ons op voor meer informatie of om een keer vrijblijvend mee te doen. We kijken ernaar uit je te ontmoeten!  
+Nieuwsgierig geworden? Neem [contact](/contact/) met ons op voor meer informatie of om een keer vrijblijvend mee te doen. We kijken ernaar uit je te ontmoeten!  
 {{< witregel >}}
 
 ---

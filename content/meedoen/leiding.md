@@ -47,7 +47,7 @@ Zeker! Naast leidinggevenden zoeken we ook vrijwilligers voor ondersteunende tak
 
 ## Interesse?  
 
-Wil je meer weten of een keer vrijblijvend meekijken? Neem contact met ons op of kom langs bij een van onze opkomsten. Samen bespreken we de mogelijkheden en ontdekken we hoe jij een verschil kunt maken!  
+Wil je meer weten of een keer vrijblijvend meekijken? Neem [contact](/contact/) met ons op of kom langs bij een van onze opkomsten. Samen bespreken we de mogelijkheden en ontdekken we hoe jij een verschil kunt maken!  
 {{< witregel >}}
 
 ---
