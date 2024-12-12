@@ -49,7 +49,7 @@ Nee hoor! Alles wat je nodig hebt, leer je bij ons. Enthousiasme is het belangri
 **Wat kost het lidmaatschap?**  
 De contributie bedraagt voor iedere leeftijdsgroep €70,- per halfjaar. Bijkomende kosten zijn het uniform (ongeveer €50,-)  en voor kampen vragen we ook een extra bijdrage. 
 De bijdrage voor deelname aan kampen zijn afhankelijk van de activiteiten maar worden zeer bewust zo laag mogelijk gehouden.
-Mocht de contributie een probleem zijn, dan kun je contact opnemen met Stichting Leergeld. Zij helpen kinderen van ouders die (tijdelijk) krap bij kas zitten. Zie ook [www.leergeldsneek.nl](https://www.leergeldsneek.nl).
+Mocht de contributie een probleem zijn, dan kun je contact opnemen met Stichting Leergeld. Zij helpen kinderen van ouders die (tijdelijk) krap bij kas zitten. Zie ook [Leergeld Zuidwest Friesland](https://leergeldzwf.nl/).
 
 **Hoe vaak zijn er opkomsten?**  
 Onze opkomsten vinden wekelijks plaats (exclusief schoolvakanties) en worden aangevuld met kampen en andere speciale activiteiten.

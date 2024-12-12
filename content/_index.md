@@ -2,6 +2,7 @@
 title: 'TIBRAG Scouting Sneek'
 keywords: ['tibrag', 'scoutinggroep', 'scouting website', 'tibrag sneek', 'tibrag startpagina', 'scouting startpagina', 'informatie']
 ---
+## TIBRAG Scouting Sneek
 
 Welkom op de website van Scoutinggroep Tibrag Sneek.<br>
 Aan deze website wordt momenteel gewerkt!
