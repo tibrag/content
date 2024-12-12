@@ -1,5 +1,5 @@
 ---
-title: Voorbeeld
+title: 'Voorbeeld'
 ---
 <!-- dit is tekst die niet wordt weergeven op de pagina -->
 

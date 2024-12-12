@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-layout: "contact"
+title: 'Contact'
+layout: 'contact'
 keywords: ['contact', 'contact tibrag', 'contact scouting', 'vragen scouting', 'vragen tibrag', 'opmerkingen', 'contactformulier', 'e-mail tibrag', 'email scouting tibrag', 'bericht scouting tibrag']
 description: 'Wil je ons vinden? Stuur ons dan een bericht of vind ons adres hier!'
 ---

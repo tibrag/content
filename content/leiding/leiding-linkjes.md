@@ -1,6 +1,6 @@
 ---
-title = 'Leiding linkjes'
-layout = 'single'
+title: 'Leiding linkjes'
+layout: 'single'
 ---
 
 - [duckduckgo](https://duckduckgo.com)
