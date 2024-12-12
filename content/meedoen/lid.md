@@ -15,8 +15,8 @@ Waterscouting is uniek omdat onze activiteiten zich vooral op en rond het water 
 ## Voor wie?  
 
 Iedereen vanaf 7 jaar is welkom bij onze groep! We hebben verschillende leeftijdsgroepen, zodat je altijd activiteiten doet die bij jou passen:  
-\- **Dolfijnen (7-11 jaar):** Spelenderwijs de natuur en het water ontdekken. (in opzet)
-\- **Juniorscouts (12-17 jaar):** Leren zeilen, roeien, avonturen beleven en zelfstandig activiteiten plannen.
+\- **Dolfijnen (7-11 jaar):** Spelenderwijs de natuur en het water ontdekken. (in opzet)  
+\- **Juniorscouts (12-17 jaar):** Leren zeilen, roeien, avonturen beleven en zelfstandig activiteiten plannen.  
 \- **Loodsen (18-21 jaar):** Grotere uitdagingen en bijdragen aan de groep.  
 {{< witregel >}}
 
@@ -36,14 +36,14 @@ Wij vinden een veilige fysieke en sociale omgeving voor onze jeugdleden en vrijw
 ## Wat verwachten wij van jou?  
 
 Als je lid wil worden, verwachten wij ook een aantal dingen van jou zoals:  
-\- **Zwemdiploma:** Omdat wij elke week op, naast of in het water zijn, moet je bij onze vereniging in het bezit zijn van het zwemdiplomma A of het zwemvaardig-certificaat.
+\- **Zwemdiploma:** Omdat wij elke week op, naast of in het water zijn, moet je bij onze vereniging in het bezit zijn van het zwemdiplomma A of het zwemvaardig-certificaat.  
 \- **Gedragsregels:** Een scout is eerlijk, vriendelijk en zorgt voor de natuur. Voor een goed verloop van het spel vragen we onze scouts te luisteren naar de leiding en respectvol met elkaar om te gaan.  
 {{< witregel >}}
 
 ## Hoe meld je je aan?  
 
 Wil je lid worden? Het proces is eenvoudig:  
-1\. **Kom een paar keer kijken:** Je bent van harte welkom om een opkomst mee te maken. Zo kun je zelf ervaren hoe leuk scouting is! Iedereen kan 3 keer gratis meedraaien.
+1\. **Kom een paar keer kijken:** Je bent van harte welkom om een opkomst mee te maken. Zo kun je zelf ervaren hoe leuk scouting is! Iedereen kan 3 keer gratis meedraaien.  
 2\. **Aanmelden:** Besluit je lid te worden? Vul dan het aanmeldformulier in, dat je van ons ontvangt na je kennismaking.  
 3\. **Lidmaatschap:** Na inschrijving krijg je alle informatie over de contributie, kleding en materialen die je nodig hebt.  
 {{< witregel >}}

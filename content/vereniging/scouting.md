@@ -14,10 +14,10 @@ Waterscouting draait om plezier en uitdaging op het water. Onze leden leren vaar
 
 ## Voor wie is waterscouting?
 
-Bij onze groep verwelkomen we leden van alle leeftijden. Waterscouting kent de volgende leeftijdsgroepen:
-\- **[Dolfijnen](https://www.tibrag.nl/leden/dolfijnen/) (7-12 jaar):** Ontdekken van water en natuur met speelse en creatieve activiteiten.
-\- **[Juniorscouts](https://www.tibrag.nl/leden/zeeverkenners/) (13-17 jaar):** Leren zeilen, roeien, zelfstandig activiteiten organiseren en samenwerken in een hechte ploeg.
-\- **[Loodsen](https://www.tibrag.nl/leden/loodsen/) (18-21 jaar):** Verantwoordelijkheid nemen binnen en buiten de groep en meegaan als leiding bij jongere speltakken.
+Bij onze groep verwelkomen we leden van alle leeftijden. Waterscouting kent de volgende leeftijdsgroepen:  
+\- **[Dolfijnen](https://www.tibrag.nl/leden/dolfijnen/) (7-12 jaar):** Ontdekken van water en natuur met speelse en creatieve activiteiten.  
+\- **[Juniorscouts](https://www.tibrag.nl/leden/zeeverkenners/) (13-17 jaar):** Leren zeilen, roeien, zelfstandig activiteiten organiseren en samenwerken in een hechte ploeg.  
+\- **[Loodsen](https://www.tibrag.nl/leden/loodsen/) (18-21 jaar):** Verantwoordelijkheid nemen binnen en buiten de groep en meegaan als leiding bij jongere speltakken.  
 \- **Vrijwilligers:** Volwassenen zijn onmisbaar binnen onze vereniging. Of je nu leiding wilt geven, een handje wilt helpen bij activiteiten of jouw kennis en vaardigheden wilt inzetten, jouw inzet maakt het verschil!  
 {{< witregel >}}
 

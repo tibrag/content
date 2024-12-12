@@ -9,20 +9,20 @@ Heb jij een passie voor avontuur, water en het begeleiden van kinderen en jonger
 
 ## Wat doet een leidinggevende?
 
-Als leiding geef je wekelijks opkomst aan een speltak en werk je samen met andere vrijwilligers om leuke, spannende en leerzame programma's te bedenken. Denk aan:
-\- Het begeleiden van zeiltochten en waterspellen.
-\- Het uitzetten van speurtochten en droppingen
-\- Het organiseren van kampen en evenementen.
-\- Het overbrengen van scoutingvaardigheden, zoals knopen leggen, navigeren en samenwerken.
+Als leiding geef je wekelijks opkomst aan een speltak en werk je samen met andere vrijwilligers om leuke, spannende en leerzame programma's te bedenken. Denk aan:  
+\- Het begeleiden van zeiltochten en waterspellen.  
+\- Het uitzetten van speurtochten en droppingen.  
+\- Het organiseren van kampen en evenementen.  
+\- Het overbrengen van scoutingvaardigheden, zoals knopen leggen, navigeren en samenwerken.  
 \- Het ondersteunen van de persoonlijke ontwikkeling van onze leden.  
 {{< witregel >}}
 
 ## Wat bieden wij jou?  
 
 Leiding geven is niet alleen waardevol voor de kinderen en jongeren, maar ook voor jou! Wij bieden:  
-\- **Trainingen en cursussen:** Via Scouting Nederland kun je jezelf ontwikkelen op gebieden zoals leidinggeven, EHBO en veiligheid op het water.
-\- **Samenwerking en gezelligheid:** Je werkt in een enthousiast team van vrijwilligers en bouwt aan hechte vriendschappen.
-\- **Onvergetelijke ervaringen:** Van kampvuren tot zeiltochten, elke week is anders.
+\- **Trainingen en cursussen:** Via Scouting Nederland kun je jezelf ontwikkelen op gebieden zoals leidinggeven, EHBO en veiligheid op het water.  
+\- **Samenwerking en gezelligheid:** Je werkt in een enthousiast team van vrijwilligers en bouwt aan hechte vriendschappen.  
+\- **Onvergetelijke ervaringen:** Van kampvuren tot zeiltochten, elke week is anders.  
 \- **Vrijwilligerswerk met impact:** Je helpt kinderen en jongeren groeien, zowel persoonlijk als in hun vaardigheden.  
 {{< witregel >}}
 

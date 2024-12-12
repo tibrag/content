@@ -8,31 +8,31 @@ Onze mooie locatie met unieke ligging aan de Houkesloot is ideaal om een scoutin
 Maak kennis met elfstedenstad Sneek en het prachtige vaar- en zeilwater in de buurt.  
 
 {{< witregel >}}
-Ons terrein heeft de volgende ruimtes voor activiteiten:
-\- Groot kampterrein ca. 30 personen
-\- Klein kampterrein ca. 15 personen
-\- Binnen een slaapzolder ca. 30 personen
-\- Kampvuurplaats omringd met houten zitbanken
+Ons terrein heeft de volgende ruimtes voor activiteiten:  
+\- Groot kampterrein ca. 30 personen.  
+\- Klein kampterrein ca. 15 personen.  
+\- Binnen een slaapzolder ca. 30 personen.  
+\- Kampvuurplaats omringd met houten zitbanken.  
 \- Botenloods, zeer geschikt om overdekt buiten te zitten tijdens naar weer.  
 
 {{< witregel >}}
-Sanitaire voorzieningen: 
-\- 1 ruimte met douche, toilet en wastafel geschikt voor invaliden
-\- 4 douches en 4 wastafels ( in 2 gescheiden ruimten)
-\- 2 x urinoir en 2 x toilet
+Sanitaire voorzieningen:  
+\- 1 ruimte met douche, toilet en wastafel geschikt voor invaliden.  
+\- 4 douches en 4 wastafels ( in 2 gescheiden ruimten).  
+\- 2 x urinoir en 2 x toilet.  
 \- wastrog  
 
 {{< witregel >}}
-Volwaardige Keuken met:
-\- magnetron
-\- oven
-\- koelkast
-\- 5 pits gasfornuis
-\- 1 lage brander voor mega grote pan
+Volwaardige Keuken met:  
+\- magnetron.  
+\- oven.  
+\- koelkast.  
+\- 5 pits gasfornuis.  
+\- 1 lage brander voor mega grote pan.  
 \- 2 x aanrechtbladen met gootstenen.  
 
 {{< witregel >}}
-Het gebouw is ondergebracht in de Stichting Scouting Centrum Sneek. 
+Het gebouw is ondergebracht in de Stichting Scouting Centrum Sneek.  
 Verhuurmogelijkheden van het gebouw kunnen op aanvraag worden gedaan door een mail te sturen naar scsgebruik@scoutingcentrumsneek.nl  
 
 {{< witregel >}}
