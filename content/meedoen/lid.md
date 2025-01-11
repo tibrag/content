@@ -12,11 +12,34 @@ Ben jij klaar voor avontuur op en rond het water? Bij onze waterscoutinggroep ma
 Waterscouting is uniek omdat onze activiteiten zich vooral op en rond het water afspelen. Je leert niet alleen zeilen, roeien en navigeren, maar ook hoe je samenwerkt en verantwoordelijkheid neemt. Daarnaast organiseren we kampen, uitdagende tochten en nog veel meer.  
 {{< witregel >}}
 
+
+{{< columns >}}
+{{< column >}}
+## Aanmelden:
+Wil je lid worden? Het proces is eenvoudig:  
+1\. **Kom een paar keer kijken:** Iedereen kan 3 keer gratis meedraaien.  
+2\. **Aanmelden:** Vul het gekregen aanmeldformulier in na je kennismaking.  
+3\. **Lidmaatschap:** Bij inschrijving krijg je alle informatie die je verder nodig hebt.  
+Vragen? [Stuur ons een bericht](/contact/)  
+{{< /column >}}
+
+{{< column >}}
+## Kosten:
+Onze kosten worden bewust zo laag mogelijk gehouden. Ze zijn als volgt opgebouwd:  
+€70,- contributie per halfjaar.  
+Uniform (ongeveer €50,-).   
+Extra bijdrage bij kampen en speciale activiteiten.  
+{{< witregel >}}
+Krap bij kas? Zie ook [Leergeld Zuidwest Friesland](https://leergeldzwf.nl/).  
+{{< /column >}}
+{{< /columns >}}
+
+
 ## Voor wie?  
 
 Iedereen vanaf 7 jaar is welkom bij onze groep! We hebben verschillende leeftijdsgroepen, zodat je altijd activiteiten doet die bij jou passen:  
 \- **Dolfijnen (7-11 jaar):** Spelenderwijs de natuur en het water ontdekken. (in opzet)  
-\- **Juniorscouts (12-17 jaar):** Leren zeilen, roeien, avonturen beleven en zelfstandig activiteiten plannen.  
+\- **Zeeverkenners (12-17 jaar):** Leren zeilen, roeien, avonturen beleven en zelfstandig activiteiten plannen.  
 \- **Loodsen (18-21 jaar):** Grotere uitdagingen en bijdragen aan de groep.  
 {{< witregel >}}
 
@@ -26,6 +49,7 @@ Als lid van onze groep heb je elke week een opkomst vol leuke en leerzame activi
 \- **Kampen:** Van avontuurlijke zomerkampen op het water tot gezellige weekenden.  
 \- **Zeiltochten:** Ontdek de mooiste plekken vanaf het water.  
 \- **Wedstrijden:** Laat zien wat je kunt tijdens regionale en landelijke scoutingwedstrijden.  
+\- **CWO zeilen:** Bij TIBRAG bieden we naast leren zeilen via sport en spel ook officiële zeilcursussen voor een CWO diploma.  
 {{< witregel >}}
 
 ## Wat kun je van onze leiding verwachten?

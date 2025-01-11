@@ -20,6 +20,7 @@ Als leiding geef je wekelijks opkomst aan een speltak en werk je samen met ander
 ## Wat bieden wij jou?  
 
 Leiding geven is niet alleen waardevol voor de kinderen en jongeren, maar ook voor jou! Wij bieden:  
+\- **Een stageplek:** Scoutinggroep TIBRAG is de ideale plek om kwaliteiten voor het leven te leren. Van leidinggeven tot creatieve ideeën ontwikkelen tot activiteiten.  
 \- **Trainingen en cursussen:** Via Scouting Nederland kun je jezelf ontwikkelen op gebieden zoals leidinggeven, EHBO en veiligheid op het water.  
 \- **Samenwerking en gezelligheid:** Je werkt in een enthousiast team van vrijwilligers en bouwt aan hechte vriendschappen.  
 \- **Onvergetelijke ervaringen:** Van kampvuren tot zeiltochten, elke week is anders.  
@@ -28,7 +29,7 @@ Leiding geven is niet alleen waardevol voor de kinderen en jongeren, maar ook vo
 
 ## Voor wie is leiding worden geschikt?  
 
-Iedereen vanaf 18 jaar die enthousiast is over scouting, samenwerken en wateractiviteiten is welkom! Je hoeft geen ervaren scout te zijn – wij leren je alles wat je moet weten. Belangrijker zijn jouw motivatie en inzet om kinderen en jongeren een geweldige tijd te bezorgen.  
+Iedereen vanaf 18 jaar die enthousiast is over scouting, samenwerken en wateractiviteiten is welkom! Je hoeft geen ervaren scout te zijn – wij leren je alles wat je moet weten. Belangrijker zijn jouw motivatie en inzet om kinderen en jongeren een geweldige tijd te bezorgen. Voor maatschappelijke stage is onder begeleiding ook jongere leiding welkom.  
 {{< witregel >}}
 
 ## Veelgestelde vragen
@@ -43,6 +44,10 @@ Dit varieert per rol en speltak, maar gemiddeld ben je één keer per week aanwe
 
 **Kan ik ook een andere rol vervullen?**  
 Zeker! Naast leidinggevenden zoeken we ook vrijwilligers voor ondersteunende taken, zoals onderhoud, organisatie of communicatie.  
+{{< witregel >}}
+
+**Kan ik hier ook maatschappelijke stage doen?**  
+Ja dit kan! Bij ons leer je skills voor het leven zoals leidinggeven en creatieve ideeën doorontwikkelen tot activiteiten.  
 {{< witregel >}}
 
 ## Interesse?  
