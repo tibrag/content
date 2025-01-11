@@ -14,16 +14,16 @@ Waterscouting is uniek omdat onze activiteiten zich vooral op en rond het water 
 
 
 {{< columns >}}
-{{< column >}}
+{{% column %}}
 ## Aanmelden:
 Wil je lid worden? Het proces is eenvoudig:  
 1\. **Kom een paar keer kijken:** Iedereen kan 3 keer gratis meedraaien.  
 2\. **Aanmelden:** Vul het gekregen aanmeldformulier in na je kennismaking.  
 3\. **Lidmaatschap:** Bij inschrijving krijg je alle informatie die je verder nodig hebt.  
 Vragen? [Stuur ons een bericht](/contact/)  
-{{< /column >}}
+{{% /column %}}
 
-{{< column >}}
+{{% column %}}
 ## Kosten:
 Onze kosten worden bewust zo laag mogelijk gehouden. Ze zijn als volgt opgebouwd:  
 €70,- contributie per halfjaar.  
@@ -31,7 +31,7 @@ Uniform (ongeveer €50,-).
 Extra bijdrage bij kampen en speciale activiteiten.  
 {{< witregel >}}
 Krap bij kas? Zie ook [Leergeld Zuidwest Friesland](https://leergeldzwf.nl/).  
-{{< /column >}}
+{{% /column %}}
 {{< /columns >}}
 
 

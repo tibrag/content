@@ -6,7 +6,7 @@ description: 'Ons mooie clubgebouw en onze boten kunnen ook verhuurd worden! Zie
 
 
 {{< columns >}}
-{{< column >}}
+{{% column %}}
 ## SCS Gebouw
 
 Onze mooie locatie met unieke ligging aan de Houkesloot is ideaal om een scoutingkamp te houden. Daarom verhuren wij het gebouw, 2 kampeervelden en ligplaatsen graag aan scoutingverenigingen.
@@ -39,13 +39,13 @@ Volwaardige Keuken met:
 {{< witregel >}}
 Het gebouw is ondergebracht in de Stichting Scouting Centrum Sneek.  
 Verhuurmogelijkheden van het gebouw kunnen op aanvraag worden gedaan door een mail te sturen naar scsgebruik@scoutingcentrumsneek.nl  
-{{< /column >}}
+{{% /column %}}
 
-{{< column >}}
+{{% column %}}
 ## TIBRAG Boten & Materialen
 
 Voor Lelievletten en kano verhuur (inclusief complete inventaris) stuur een berichtje via ons [contactformulier](/contact/).  
-{{< /column >}}
+{{% /column %}}
 {{< /columns >}}
 
 {{< witregel >}}
