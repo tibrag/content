@@ -5,7 +5,7 @@ description: 'Ons mooie clubgebouw en onze boten kunnen ook verhuurd worden! Zie
 ---
 
 
-{{< columns >}}
+{{% columns %}}
 {{% column %}}
 ## SCS Gebouw
 
@@ -46,7 +46,7 @@ Verhuurmogelijkheden van het gebouw kunnen op aanvraag worden gedaan door een ma
 
 Voor Lelievletten en kano verhuur (inclusief complete inventaris) stuur een berichtje via ons [contactformulier](/contact/).  
 {{% /column %}}
-{{< /columns >}}
+{{% /columns %}}
 
 {{< witregel >}}
 *Is jullie organisatie geen scoutingvereniging, maar wel stichting of vereniging (zonder winstoog merk). Stuur ook dan gerust een email. Er is veel mogelijk.
