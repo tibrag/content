@@ -5,12 +5,12 @@ description: 'Ons mooie clubgebouw en onze boten kunnen ook verhuurd worden! Zie
 ---
 
 
-{{% columns %}}
+{{< columns class="column-fit" >}}
 {{% column %}}
 ## SCS Gebouw
 
+Maak kennis met elfstedenstad Sneek en het prachtige vaar- en zeilwater in de buurt!  
 Onze mooie locatie met unieke ligging aan de Houkesloot is ideaal om een scoutingkamp te houden. Daarom verhuren wij het gebouw, 2 kampeervelden en ligplaatsen graag aan scoutingverenigingen.
-Maak kennis met elfstedenstad Sneek en het prachtige vaar- en zeilwater in de buurt.  
 
 {{< witregel >}}
 Ons terrein heeft de volgende ruimtes voor activiteiten:  
@@ -44,9 +44,15 @@ Verhuurmogelijkheden van het gebouw kunnen op aanvraag worden gedaan door een ma
 {{% column %}}
 ## TIBRAG Boten & Materialen
 
+Als waterscoutinggroep hebben wij veel materialen voor allerlei activiteiten op en rond het water. Gezien we niet iedere dag een opkomst hebben en we ook niet álles uit de kast trekken voor een opkomst verhuren wij onze materialen graag op aanvraag. De te verhuren materialen zijn als volgt:  
+\- 3 goed onderhouden lelievletten waarvan één met houten spiegel om een buitenboordmotor op te zetten.
+\- 8 kano's op een kanokar met bijbehorende peddels.
+\- kinderzwemvesten
+\- tenten
+
 Voor Lelievletten en kano verhuur (inclusief complete inventaris) stuur een berichtje via ons [contactformulier](/contact/).  
 {{% /column %}}
-{{% /columns %}}
+{{< /columns >}}
 
 {{< witregel >}}
 *Is jullie organisatie geen scoutingvereniging, maar wel stichting of vereniging (zonder winstoog merk). Stuur ook dan gerust een email. Er is veel mogelijk.
