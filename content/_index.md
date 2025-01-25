@@ -10,16 +10,16 @@ Aan deze website wordt momenteel gewerkt!
 {{< witregel >}}
 
 {{% quicklinks %}}
-{{% quicklink title="Word Lid!" link="/meedoen/lid" %}}
+{{% quicklink title="Word Lid!" link="/meedoen/lid" icon="⛵" %}}
 Kom 3 keer gratis meedoen!
 Meer info hier.
 {{% /quicklink %}}
 
-{{% quicklink title="Word Vrijwilliger!" link="/meedoen/leiding/" %}}
+{{% quicklink title="Word Vrijwilliger!" link="/meedoen/leiding/" icon="⎈" %}}
 Versterk ons team! Help met leiden, onderhoud, organisatie.
 {{% /quicklink %}}
 
-{{% quicklink title="Sponsor Ons!" link="/meedoen/sponsoren/" %}}
+{{% quicklink title="Sponsor Ons!" link="/meedoen/sponsoren/" icon="🤝" %}}
 Als non-profit organisatie kunnen wij alle hulp gebruiken.
 {{% /quicklink %}}
 {{% /quicklinks %}}
