@@ -9,4 +9,16 @@ Welkom op de website van Scoutinggroep Tibrag Sneek.
 Aan deze website wordt momenteel gewerkt!
 {{< witregel >}}
 
-De startpagina is nog niet compleet, maar er is al wel veel informatie te vinden op de andere pagina's. Kijk vooral even rond!
+{{% quicklink title="Word Lid!" %}}
+Kom 3 keer gratis meedoen!
+Meer info hier.
+{{% /quicklink %}}
+
+{{% quicklink title="Word Vrijwilliger!" %}}
+Versterk ons leidingteam! Of help bij onderhoud en organisatie.
+Meer info hier.
+{{% /quicklink %}}
+
+{{% quicklink title="Sponsor Ons!" %}}
+Als non-profit vrijwilligers organisatie kunnen wij alle hulp gebruiken.
+{{% /quicklink %}}
