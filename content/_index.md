@@ -9,6 +9,7 @@ Welkom op de website van Scoutinggroep Tibrag Sneek.
 Aan deze website wordt momenteel gewerkt!
 {{< witregel >}}
 
+{{% quicklinks %}}
 {{% quicklink title="Word Lid!" %}}
 Kom 3 keer gratis meedoen!
 Meer info hier.
@@ -22,3 +23,4 @@ Meer info hier.
 {{% quicklink title="Sponsor Ons!" %}}
 Als non-profit vrijwilligers organisatie kunnen wij alle hulp gebruiken.
 {{% /quicklink %}}
+{{% /quicklinks %}}
