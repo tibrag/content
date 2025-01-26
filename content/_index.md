@@ -8,16 +8,16 @@ description: "Scoutinggroep TIBRAG is dé waterscoutinggroep van Sneek. Hier kan
 
 {{< witregel >}}
 {{% quicklinks %}}
-{{% quicklink title="Word Lid >" link="/meedoen/lid" icon="&#x26F5;&#xfe0e;" %}}
+{{% quicklink title="Word Lid" link="/meedoen/lid" icon="&#x26F5;&#xfe0e;" %}}
 Kom 3 keer gratis meedoen!
 Klik voor meer info.
 {{% /quicklink %}}
 
-{{% quicklink title="Word Vrijwilliger >" link="/meedoen/leiding/" icon="&#x2388;&#xfe0e;" %}}
+{{% quicklink title="Word Vrijwilliger" link="/meedoen/leiding/" icon="&#x2388;&#xfe0e;" %}}
 Versterk ons team! Help met leiden, onderhoud, organisatie.
 {{% /quicklink %}}
 
-{{% quicklink title="Sponsor Ons >" link="/meedoen/sponsoren/" icon="&#x1F331;&#xfe0e;" %}}
+{{% quicklink title="Sponsor Ons" link="/meedoen/sponsoren/" icon="&#x1F331;&#xfe0e;" %}}
 Als non-profit organisatie kunnen wij alle hulp gebruiken.
 {{% /quicklink %}}
 {{% /quicklinks %}}
