@@ -17,7 +17,7 @@ Klik voor meer info.
 Versterk ons team! Help met leiden, onderhoud, organisatie.
 {{% /quicklink %}}
 
-{{% quicklink title="Sponsor Ons" link="/meedoen/sponsoren/" icon="&#x1F6DF;&#xfe0e;" %}}
+{{% quicklink title="Sponsor Ons" link="/meedoen/sponsoren/" icon="&#x2388;&#xfe0e;" %}}
 Als non-profit organisatie kunnen wij alle hulp gebruiken.
 {{% /quicklink %}}
 {{% /quicklinks %}}
