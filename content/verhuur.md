@@ -55,4 +55,7 @@ Voor Lelievletten en kano verhuur (inclusief complete inventaris) stuur een beri
 {{< /columns >}}
 
 {{< witregel >}}
+{{% /column %}}
 *Is jullie organisatie geen scoutingvereniging, maar wel stichting of vereniging (zonder winstoog merk). Stuur ook dan gerust een email. Er is veel mogelijk.
+{{% /column %}}
+{{< /columns >}}
