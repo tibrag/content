@@ -35,7 +35,8 @@ Loodsen zijn jonge volwassenen die scouting op een hoger niveau ervaren. Ze onde
 ---
 
 ## **Vrijwilligers (18+ jaar)**  
-Ook volwassenen kunnen deel uitmaken van onze vereniging. Of je nu leiding wilt geven, wilt helpen met onderhoud of jouw specifieke kennis wilt inzetten, er is altijd een plek voor jou! Vrijwilligers zijn onmisbaar voor het succes van onze groep en de beleving van de jeugdleden.  
+Ook volwassenen kunnen deel uitmaken van onze scoutinggroep. Of je nu leiding wilt geven aan jeugdleden, wilt helpen met onderhoud van materieel of jouw specifieke kennis wilt inzetten, er is altijd een plek voor jou! Vrijwilligers zijn onmisbaar voor het succes van onze groep en de beleving van de jeugdleden. 
+Dus heb je een uurtje over neem eens contact met ons op om eens vrijblijvend te komen kijken.
 {{< witregel >}}
 
 ---
