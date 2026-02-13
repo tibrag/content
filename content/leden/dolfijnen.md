@@ -6,10 +6,10 @@ description: 'Vind hier meer informatie en het programma van de TIBRAG dolfijnen
 
 {{< columns >}}
 {{< column >}}
-Informatie
+## Informatie
 {{< /column >}}
 
 {{< column >}}
-Programma
+## Programma
 {{< /column >}}
 {{< /columns >}}
