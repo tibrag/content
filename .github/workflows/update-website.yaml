@@ -3,6 +3,9 @@ name: Trigger Website Update
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - ".github/**"
+      - "README.md"
 
 jobs:
   update:
