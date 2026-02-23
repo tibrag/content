@@ -3,13 +3,18 @@ title: 'Lid Worden'
 keywords: 'uniform scouting, water scouting, scouting kampen, kleding scouting, scouting groepen nederland, scouting benodigdheden, activiteiten scouting, contributie scouting, lid worden scouting, tibrag lid worden'
 description: 'Ben jij enthausiast om te leren zeilen, bouwen en navigeren. Hier leer je hoe jij je hiervoor op kan geven bij scoutinggroep TIBRAG Sneek.'
 ---
+{{% column %}}
 
+## Meedoen
 Ben jij klaar voor avontuur op en rond het water? Bij onze waterscoutinggroep maak je vrienden voor het leven, beleef je spannende activiteiten en leer je handige vaardigheden zoals zeilen, samenwerken en overleven in de natuur. Word lid en ontdek wat scouting voor jou kan betekenen!  
+{{% /column %}}
 {{< witregel >}}
 
-## Waarom waterscouting?  
+{{% column %}}
 
+## Waterscouting  
 Waterscouting is uniek omdat onze activiteiten zich vooral op en rond het water afspelen. Je leert niet alleen zeilen, roeien en navigeren, maar ook hoe je samenwerkt en verantwoordelijkheid neemt. Daarnaast organiseren we kampen, uitdagende tochten en nog veel meer.  
+{{% /column %}}
 {{< witregel >}}
 
 
@@ -33,44 +38,48 @@ Extra bijdrage bij kampen en speciale activiteiten.
 Krap bij kas? Zie ook [Leergeld Zuidwest Friesland](https://leergeldzwf.nl/).  
 {{% /column %}}
 {{< /columns >}}
+{{< witregel >}}
 
+{{% column %}}
 
 ## Voor wie?  
-
 Iedereen vanaf 7 jaar is welkom bij onze groep! We hebben verschillende leeftijdsgroepen, zodat je altijd activiteiten doet die bij jou passen:  
 \- **Dolfijnen (7-11 jaar):** Spelenderwijs de natuur en het water ontdekken. (in opzet)  
 \- **Zeeverkenners (12-17 jaar):** Leren zeilen, roeien, avonturen beleven en zelfstandig activiteiten plannen.  
 \- **Loodsen (18-21 jaar):** Grotere uitdagingen en bijdragen aan de groep.  
+{{% /column %}}
 {{< witregel >}}
 
-## Wat kun je van scouting verwachten?  
+{{% column %}}
 
+## Wat kun je van *scouting* verwachten?  
 Als lid van onze groep heb je elke week een opkomst vol leuke en leerzame activiteiten. Daarnaast organiseren we regelmatig speciale evenementen zoals:  
 \- **Kampen:** Van avontuurlijke zomerkampen op het water tot gezellige weekenden.  
 \- **Zeiltochten:** Ontdek de mooiste plekken vanaf het water.  
 \- **Wedstrijden:** Laat zien wat je kunt tijdens regionale en landelijke scoutingwedstrijden.  
-\- **CWO zeilen:** Bij TIBRAG bieden we naast leren zeilen via sport en spel ook officiële zeilcursussen voor een CWO diploma.  
+\- **CWO zeilen:** Bij TIBRAG bieden we naast leren zeilen via sport en spel ook officiële zeilcursussen voor een diploma.  
+{{% /column %}}
 {{< witregel >}}
 
-## Wat kun je van onze leiding verwachten?
+{{% columns %}}
+{{% column %}}
 
-Wij vinden een veilige fysieke en sociale omgeving voor onze jeugdleden en vrijwilligers belangrijk. Hierom houden wij ons aan de [gedragscode](https://www.scouting.nl/assets/uploads/doorzoekbareBestanden/06.Ondersteuning/Veiligheid/Sociale%20veiligheid/Gedragscode.pdf) opgesteld door Scouting Nederland. Verder bouwen we aan een veilige omgeving via cursussen van Scouting Nederland en houden wij interviews met nieuwe leiding.  
+## Wat kun je van onze *leiding* verwachten?
+Wij vinden een veilige fysieke en sociale omgeving voor onze jeugdleden en vrijwilligers belangrijk. Hierom houden wij ons aan de <a href="https://www.scouting.nl/assets/uploads/doorzoekbareBestanden/Gedragscode-2025.pdf" target="_blank" rel="noopener noreferrer">gedragscode</a> opgesteld door Scouting Nederland. Verder bouwen we aan een veilige omgeving via cursussen van Scouting Nederland en houden wij interviews met nieuwe leiding.  
+{{% /column %}}
 {{< witregel >}}
 
-## Wat verwachten wij van jou?  
+{{% column %}}
 
-Als je lid wil worden, verwachten wij ook een aantal dingen van jou zoals:  
+## Wat verwachten wij van *jou*?  
 \- **Zwemdiploma:** Omdat wij elke week op, naast of in het water zijn, moet je bij onze vereniging in het bezit zijn van het zwemdiplomma A of het zwemvaardig-certificaat.  
 \- **Gedragsregels:** Een scout is eerlijk, vriendelijk en zorgt voor de natuur. Voor een goed verloop van het spel vragen we onze scouts te luisteren naar de leiding en respectvol met elkaar om te gaan.  
 {{< witregel >}}
-
-## Hoe meld je je aan?  
-
-Wil je lid worden? Het proces is eenvoudig:  
-1\. **Kom een paar keer kijken:** Je bent van harte welkom om een opkomst mee te maken. Zo kun je zelf ervaren hoe leuk scouting is! Iedereen kan 3 keer gratis meedraaien.  
-2\. **Aanmelden:** Besluit je lid te worden? Vul dan het aanmeldformulier in, dat je van ons ontvangt na je kennismaking.  
-3\. **Lidmaatschap:** Na inschrijving krijg je alle informatie over de contributie, kleding en materialen die je nodig hebt.  
+{{% /column %}}
+{{% /columns %}}
 {{< witregel >}}
+
+{{% column %}}
 
 ## Veelgestelde vragen  
 
@@ -95,6 +104,7 @@ Wij houden ons aan de privacyregels opgesteld door Scouting Nederland ([privacyw
 
 ## Klaar om aan boord te stappen?
 Nieuwsgierig geworden? Neem [contact](/contact/) met ons op voor meer informatie of om een keer vrijblijvend mee te doen. We kijken ernaar uit je te ontmoeten!  
+{{% /column %}}
 {{< witregel >}}
 
 ---
