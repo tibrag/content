@@ -3,14 +3,16 @@ title: 'Sponsoren'
 keywords: 'wordt sponsor, sponsor kinderen, ik wil sponsoren, scouting sponsoren, sociale sponsoring, sponsor vereniging, vereniging sponsoren, sponsor mogelijkheden'
 description: 'Scoutinggroep TIBRAG is een vrijwilligersorganisatie zonder winstoogmerk, hierom is alle hulp welkom. Met sponsoren kunnen wij geweldige kampen organiseren of goede materialen aanschaffen. Iedere hulp houd onze contributie laag.'
 ---
+{{% column %}}
+
+## Sponsoren  
+Wil je bijdragen aan de ontwikkeling van kinderen en jongeren terwijl je tegelijkertijd je bedrijf lokaal zichtbaar maakt? Word sponsor van onze waterscoutinggroep en help ons om avontuurlijke, leerzame en onvergetelijke activiteiten mogelijk te maken!  
+{{% /column %}}
+{{< witregel >}}
 
 {{% column %}}
 
-Wil je bijdragen aan de ontwikkeling van kinderen en jongeren terwijl je tegelijkertijd je bedrijf lokaal zichtbaar maakt? Word sponsor van onze waterscoutinggroep en help ons om avontuurlijke, leerzame en onvergetelijke activiteiten mogelijk te maken!  
-{{< witregel >}}
-
 ## Waarom sponsoren?  
-
 Onze waterscoutinggroep biedt kinderen en jongeren een veilige plek om samen te leren, groeien en grenzen te verleggen. Met jouw steun kunnen we:  
 \- Onze boten en materialen onderhouden of investeren in vernieuwing of vervanging.  
 \- Nieuwe activiteiten en evenementen organiseren.  
@@ -19,10 +21,12 @@ Onze waterscoutinggroep biedt kinderen en jongeren een veilige plek om samen te 
 {{< witregel >}}
 
 Als sponsor maak je direct impact op de jeugd in jouw omgeving én laat je zien dat jouw organisatie betrokken is bij de gemeenschap.  
+{{% /column %}}
 {{< witregel >}}
 
-## Wat bieden wij onze sponsoren?  
+{{% column %}}
 
+## Wat bieden wij onze sponsoren?  
 Als sponsor krijg je bij ons de zichtbaarheid en waardering die je verdient. Afhankelijk van jouw bijdrage bieden we onder andere:  
 \- **Naamsvermelding:** Op onze website en sociale media.  
 \- **Logo op materialen:** Denk aan vlaggen, boten of kleding die bij onze activiteiten gebruikt worden.  
@@ -31,10 +35,12 @@ Als sponsor krijg je bij ons de zichtbaarheid en waardering die je verdient. Afh
 {{< witregel >}}
 
 We denken graag met je mee over een samenwerking die past bij jouw wensen en onze groep!  
+{{% /column %}}
 {{< witregel >}}
 
-## Sponsormogelijkheden  
+{{% column %}}
 
+## Sponsormogelijkheden  
 Er zijn verschillende manieren om ons te ondersteunen, bijvoorbeeld:  
 \- **Financiële bijdrage:** Voor onderhoud, activiteiten of materialen.  
 \- **Materiaal of diensten:** Denk aan bouwmaterialen, varend materieel, drukwerk of kennis en expertise.  
@@ -42,14 +48,17 @@ Er zijn verschillende manieren om ons te ondersteunen, bijvoorbeeld:
 {{< witregel >}}
 
 Of je nu eenmalig wilt bijdragen of een langdurige samenwerking zoekt, alles is mogelijk!  
+{{% /column %}}
 {{< witregel >}}
+
+{{% column %}}
 
 ## Neem contact op  
 
 Wil je meer weten over de sponsormogelijkheden? Neem contact met ons op via ons [contactformulier](/contact/). We vertellen je graag meer over wat we doen en hoe jouw steun een verschil maakt.  
+{{% /column %}}
 {{< witregel >}}
 
 ---
 
 **Samen bouwen we aan een sterke basis voor de jeugd én een mooie samenwerking. Bedankt voor jouw steun!**
-{{% /column %}}

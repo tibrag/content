@@ -4,13 +4,15 @@ keywords: 'programma zeeverkenners, programma scouting zeeverkenners, programma 
 description: 'Vind hier meer informatie en het programma van de TIBRAG zeeverkenners.'
 ---
 
+{{< columns class="column-fit" >}}
+{{% column %}}
 
-{{< columns >}}
-{{< column >}}
-Informatie
-{{< /column >}}
+## Zeeverkenners  
 
-{{< column >}}
-Programma
-{{< /column >}}
+{{% /column %}}
+{{% column %}}
+## Programma
+
+Infomeer bij de leiding wat er op het programma staat.
+{{% /column %}}
 {{< /columns >}}

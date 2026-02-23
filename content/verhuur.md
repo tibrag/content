@@ -3,7 +3,11 @@ title: 'Verhuur'
 keywords: 'verhuur scouting, scouting verhuur, scouting gebouw, scouting clubhuis, verhuur scoutinggebouw, scoutinghuis huren, verhuur clubhuis, verhuur scoutslokalen, verhuur tibrag, verhuur scouting centrum sneek, scouting centrum sneek, scouting kamp locatie'
 description: 'Ons mooie clubgebouw en onze boten kunnen ook verhuurd worden! Zie hier meer informatie.'
 ---
+{{% column %}}
 
+## Verhuur  
+Als scoutinggroep hebben wij ook kampen en vakanties. Verder gebruiken wij ook niet al onze materialen voor iedere opkomst. Hierom hebben wij een redelijk aantal materialen die wij graag verhuren!
+{{% /column %}}
 
 {{< columns class="column-fit" >}}
 {{% column %}}
