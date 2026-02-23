@@ -8,6 +8,7 @@ description: 'Ons mooie clubgebouw en onze boten kunnen ook verhuurd worden! Zie
 ## Verhuur  
 Als scoutinggroep hebben wij ook kampen en vakanties. Verder gebruiken wij ook niet al onze materialen voor iedere opkomst. Hierom hebben wij een redelijk aantal materialen die wij graag verhuren!
 {{% /column %}}
+{{< witregel >}}
 
 {{< columns class="column-fit" >}}
 {{% column %}}
