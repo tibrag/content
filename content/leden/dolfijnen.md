@@ -12,6 +12,7 @@ Ben jij dol op avontuur, heb je een zwemdiploma en vind je het leuk om elke week
 Kom dan bij de Dolfijnen! Samen gaan we op ontdekking en leer je nieuwe dingen.  
 Wat we zoal gaan doen? Koken, kamperen en natuurlijk het water op. Maar daarnaast doen we ook leuke spellen, leer je knopen en vuurtje stoken.
 Maar dit is nog lang niet alles, maar dat moet je zelf komen ontdekken en beleven!  
+{{< witregel >}}
 Doe 3X vrijblijvend mee en ontdek of het iets voor je is!
 {{% /column %}}
 {{% column %}}
