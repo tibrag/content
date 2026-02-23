@@ -12,7 +12,7 @@ Wil je bijdragen aan de ontwikkeling van kinderen en jongeren terwijl je tegelij
 ## Waarom sponsoren?  
 
 Onze waterscoutinggroep biedt kinderen en jongeren een veilige plek om samen te leren, groeien en grenzen te verleggen. Met jouw steun kunnen we:  
-\- Onze boten en materialen onderhouden of investeren in vernieuwing of vervanging
+\- Onze boten en materialen onderhouden of investeren in vernieuwing of vervanging.  
 \- Nieuwe activiteiten en evenementen organiseren.  
 \- Deelname aan kampen en wedstrijden voor iedereen mogelijk maken.  
 \- De contributie betaalbaar houden, zodat scouting toegankelijk blijft voor alle gezinnen.  
