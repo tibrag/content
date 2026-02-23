@@ -4,13 +4,15 @@ keywords: 'programma loodsen, programma scouting loodsen, programma tibrag loods
 description: 'Vind hier meer informatie en het programma van de TIBRAG loodsen.'
 ---
 
+{{< columns class="column-fit" >}}
+{{% column %}}
 
-{{< columns >}}
-{{< column >}}
-Informatie
-{{< /column >}}
+## Loodsen  
 
-{{< column >}}
-Programma
-{{< /column >}}
+{{% /column %}}
+{{% column %}}
+## Programma
+
+Deze maken jullie zelf.
+{{% /column %}}
 {{< /columns >}}

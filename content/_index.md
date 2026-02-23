@@ -24,5 +24,4 @@ Als non-profit organisatie kunnen wij alle hulp gebruiken.
 
 {{< witregel >}}
 {{< witregel >}}
-Welkom op de website van Scoutinggroep Tibrag Sneek.  
-Aan deze website wordt momenteel gewerkt!
+**Welkom op de website van Scoutinggroep Tibrag Sneek!**
