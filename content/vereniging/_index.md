@@ -1,3 +1,3 @@
 ---
-title: 'De vereniging'
+title: 'De Vereniging'
 ---
