@@ -28,8 +28,8 @@ Doe 3X vrijblijvend mee en ontdek of het iets voor je is!
 &nbsp;&nbsp;9 mei 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vakanties  
 14-17 mei 		        EUSK /kamp  
 23 mei 			          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pinksteren vrij  
-30 mei 			          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Het water op kanoën  
-&nbsp;&nbsp;6 juni 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Het water op  optimisten  
+30 mei 			          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Het water op met kanos  
+&nbsp;&nbsp;6 juni 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Het water op met optimisten  
 13 juni 			        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Het water op varen + broodjes maken.  
 {{% /column %}}
 {{< /columns >}}
